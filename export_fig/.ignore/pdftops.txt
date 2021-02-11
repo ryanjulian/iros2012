@@ -1,0 +1,1 @@
+C:\Program Files\Xpdf\bin32\pdftops.exe
